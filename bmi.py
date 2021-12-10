@@ -7,3 +7,7 @@ print(weight / height ** 2)
 # or
 print(68.7 / 1.79 ** 2)
 #  should print the same result
+
+# or
+bmi = weight / height ** 2
+print(bmi)

@@ -15,3 +15,5 @@ desc = "compound interest"
 
 # Create a variable profitable
 profitable = True
+
+# python boolean True or False must start with a capital letter

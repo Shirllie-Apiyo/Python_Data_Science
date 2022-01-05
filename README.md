@@ -11,3 +11,4 @@ answers for app.py
 194.871710000000012
 
 answer for bmi.py calculation is 21.44127836209856
+python boolean True or False must start with a capital letter
